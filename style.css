@@ -11,4 +11,5 @@ nav li {display: inline; margin: 0 0 0 15px;}
 nav a {text-transform: uppercase; color: black; font-weight: bold; font-size: 22px; text-decoration: none;}
 footer {background: rgb(255, 180, 255);}
 .logotiposherevela {width: 10%; height: 10%; display: block; margin-left: auto; margin-right: auto;}
-main {text-align: justify; text-align: center;}
+.primeiroparagrafo {text-align: justify; font-size: 22px; border: rgb(255, 150, 255) dashed 2px; padding: 10px; margin: 10px;}
+.segundoparagrafo {text-align: justify; font-size: 22px; border: rgb(255, 150, 255) dashed 2px; padding: 10px; margin: 10px;}
