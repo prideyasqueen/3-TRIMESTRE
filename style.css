@@ -70,7 +70,7 @@ footer {
     text-align: center; 
     margin: 10px;
     padding: 10px; 
-    border: rgb(255, 140, 255) dotted 2px; 
+    border: rgb(255, 150, 255) dashed 2px; 
     border-radius: 10px;
 }
 
@@ -78,6 +78,6 @@ footer {
     text-align: center; 
     margin: 10px;
     padding: 10px; 
-    border: rgb(255, 140, 255) dashed 2px; 
+    border: rgb(255, 150, 255) dashed 2px; 
     border-radius: 10px;
 }
