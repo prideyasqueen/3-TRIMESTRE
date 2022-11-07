@@ -5,8 +5,11 @@ Colégio Estadual João de Faria Pioli
 Projeto de pensamento computacional
 <br>
 Nomes:
+<br>
 Isabelli Caroline
+<br>
 Andryelly
+<br>
 Nicoly
 <br>
 Série: 1°-C
