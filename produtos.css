@@ -71,5 +71,17 @@ nav a {
 	margin: 10px 0 0;
 }
 
+footer {
+    background: rgb(255, 180, 255);
+}
+
+.logotiposherevela {
+    width: 5%; 
+    height: 5%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
 
 

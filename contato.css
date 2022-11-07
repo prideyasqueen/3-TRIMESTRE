@@ -1,11 +1,13 @@
-nav li {
-    text-transform: uppercase;
+body {
+	background-color: rgb(255, 191, 255)
 }
 
-nav a {
-    color: antiquewhite;
+.logo2 {
+	height: 25%; 
+	width: 25%
 }
 
-.lista01 {
-    display: block;
+header {
+	background: rgb(255, 180, 255);
+	padding: 20px 0;
 }
