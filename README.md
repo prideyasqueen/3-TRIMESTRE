@@ -4,7 +4,8 @@ Colégio Estadual João de Faria Pioli
 <br>
 Projeto de pensamento computacional
 <br>
-Nomes:
+<br>
+<b>Nomes:
 <br>
 Isabelli Caroline
 <br>
