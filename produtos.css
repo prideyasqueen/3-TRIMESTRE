@@ -83,5 +83,17 @@ footer {
     margin-right: auto;
 }
 
+footer {
+    background: rgb(255, 180, 255);
+}
+
+.logotiposherevela {
+    width: 5%; 
+    height: 5%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
 
 
