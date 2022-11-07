@@ -1,9 +1,14 @@
 # 3-TRIMESTRE
 
-Isabelli Caroline - 18
+Colégio Estadual João de Faria Pioli
 <br>
-Andryelly - 5
+Projeto de pensamento computacional
 <br>
-Nicoly - 37
+Nomes:
+Isabelli Caroline
+Andryelly
+Nicoly
 <br>
-1C
+Série: 1°-C
+<br>
+Meu site é sobre: venda de velas aromáticas.
