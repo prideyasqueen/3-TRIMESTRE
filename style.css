@@ -54,6 +54,10 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color:rgb(255, 235, 248);
+}
+
 footer {
     background: rgb(255, 180, 255);
 }
