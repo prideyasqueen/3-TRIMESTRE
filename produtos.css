@@ -100,6 +100,11 @@ footer {
 	padding: 40px 0;
 }
 
+.produto2 {
+	width: 20%;
+	height: 20%;
+}
+
 .logotiposherevela {
     width: 5%; 
     height: 5%; 
@@ -107,6 +112,4 @@ footer {
     margin-left: auto; 
     margin-right: auto;
 }
-
-
 

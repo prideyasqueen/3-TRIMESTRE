@@ -114,6 +114,15 @@ form label, form p {
     font-size: 15px;
 }
 
+.logotiposherevela {
+    width: 5%; 
+    height: 5%; 
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+}
+
 .iicon {
-    size: 5px;
+    width: 5%;
+    height: 5%;
 }
